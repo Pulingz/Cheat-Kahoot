@@ -1,6 +1,6 @@
 ## kaheet-kahoot-cheat
 
-# PLEASE VISIT [KAHEET](https://github.com/pxtrez/kaheet)
+# PLEASE VISIT [PULINGZ](https://github.com/Pulingz/Cheat-Kahoot)
 
 # How to use?
 1. Open [kahoot](https://kahoot.it/)
@@ -8,7 +8,7 @@
 3. Paste following script:
 
 ```js
-fetch("https://raw.githubusercontent.com/pxtrez/kaheet-kahoot-cheat/main/dist/script.js")
+fetch("https://raw.githubusercontent.com/Pulingz/Cheat-Kahoot/main/dist/script.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
