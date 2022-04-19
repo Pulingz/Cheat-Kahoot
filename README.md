@@ -8,7 +8,7 @@
 3. Paste following script:
 
 ```js
-fetch("https://raw.githubusercontent.com/Pulingz/Cheat-Kahoot/main/dist/script.js")
+fetch("https://raw.githubusercontent.com/Pulingz/Cheat-Kahoot/dist/script.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
 ```
